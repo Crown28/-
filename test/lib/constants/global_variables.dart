@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-String uri = 'https://port-0-desae3-5mk12alp5h7roe.sel5.cloudtype.app'; //본인 ip
+String uri = '***'; //본인 ip
 
 class GlobalVariables {
   // COLORS
